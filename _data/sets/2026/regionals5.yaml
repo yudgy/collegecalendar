@@ -20,7 +20,7 @@ mirrors:
   - { date: 2027-02-06, region: 3B, name: Georgia Tech, url: https://hsquizbowl.org/forums/viewtopic.php?t=30711 }
   - { date: 2027-02-06, region: 4A, name: Texas-Dallas, url: https://hsquizbowl.org/forums/viewtopic.php?t=30716 }
   - { date: 2027-02-06, region: 5B, name: Berkeley, url: https://hsquizbowl.org/forums/viewtopic.php?t=30737 }
-  - { date: 2027-02-06, region: 6A, name: Washington }
+  - { date: 2027-02-06, region: 6A, name: Washington, url: https://hsquizbowl.org/forums/viewtopic.php?t=30743 }
   - { date: 2027-02-06, region: 7B, name: Missouri }
   - { date: 2027-02-06, region: 8B, name: Purdue, url: https://hsquizbowl.org/forums/viewtopic.php?t=30709 }
   - { date: 2027-02-06, region: 8C, name: Ohio State }
